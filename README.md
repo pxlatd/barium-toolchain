@@ -1,2 +1,2 @@
 # barium-toolchain
-Toolchain for BariumOS
+Toolchain for [BariumOS](https://github.com/pxlatd/Barium)
